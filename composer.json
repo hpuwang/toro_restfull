@@ -1,0 +1,23 @@
+{
+    "name": "kaihui/toro_restfull",
+    "type": "framework",
+    "description": "toro_restfull.",
+    "homepage": "http://2tag.cn/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaihui.wang",
+            "email": "hpuwang@gmail.com",
+            "homepage": "http://2tag.cn/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "twig/twig": "^1.18"
+    },
+    "autoload": {
+        "files": [
+        ]
+    }
+}

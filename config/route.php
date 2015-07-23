@@ -1,0 +1,20 @@
+<?php
+return array(
+    "bscreen"=>array(
+        "2.0"=>array(
+            "/user/:number/:string"=>"bscreen_test_index",
+            "/v"=>"bscreen_test_index@test2",
+        ),
+        "3.0"=>array(
+            "/test2"=>"bscreen_test_index@test1",
+            "/v"=>"bscreen_test_index@test3",
+        ),
+        "3.3"=>array(
+            "/test2"=>"bscreen_test_index",
+            "/v"=>"bscreen_test_index@test3",
+        ),
+        "4.0"=>array(
+            "/v"=>"bscreen_test_index@test4",
+        ),
+    )
+);
