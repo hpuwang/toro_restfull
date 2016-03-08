@@ -2,7 +2,7 @@
 
 	例如: http://xxx.com/bscreen/i100/goos/detail
 	
-	(a) 参数: data={“body”:{},”elapsedTime”=>"","errorCode"=>0,"errorDesc"=>"成功"}
+	(a) 返回参数: data={“body”:{},”elapsedTime”=>"","errorCode"=>0,"errorDesc"=>"成功"}
 	
 	(b) 请求方法：post
 	
